@@ -8,9 +8,11 @@
 </head>
 
 <body>
-    <div class="header">
+   <header>
+    <!-- Replaced div tags with nav to indicate that this section contains a set of navigation links -->
+    <nav class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -22,8 +24,12 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </nav>
+    </header>
+
+    <!-- Included section tags to indicate where all the content and information is located -->
+    <section>
     <div class="hero"></div>
     <div class="content">
         <div class="search-engine-optimization">
@@ -51,15 +57,16 @@
             </p>
         </div>
     </div>
-    <div class="benefits">
-        <div class="benefit-lead">
+
+    <section class="benefits">
+        <section class="benefit-lead">
             <h3>Lead Generation</h3>
             <!--Added alt text to image for accessibility purposes-->
             <img src="./assets/images/lead-generation.png" alt="logo showing a half gear shape with an arrow pointing down towards a dollar sign" />
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
-        </div>
+        </section>
         <div class="benefit-brand">
             <h3>Brand Awareness</h3>
             <!--Added alt text to image for accessibility purposes-->
@@ -76,13 +83,16 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>
-    <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
-        <p>
+    </section>
+
+    <!-- Replaced div with footer to make the code more clear -->
+    
+        <footer class="footer">
+            <h2>Made with ❤️️ by Horiseon</h2>
+            <p>
             &copy; 2023 Horiseon Social Solution Services, Inc.
-        </p>
-    </div>
+            </p>
+        </footer>
 </body>
 
 </html>
