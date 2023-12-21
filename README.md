@@ -2,7 +2,7 @@
 
 ## Description
 
-For this challenge, I began with a starter code that needed minor changes. The most important aspect of this challenge was accessibility. I modified the HTML more to be more semantic and easier for other coders to read by replacing several div tags with more specific tags, as well as reworked the CSS to follow the structure of the HTML. For accessibility purposes, I also included some alt text with each image on the web page. Another small change I made was adding spaces between certain groups of code and including a couple <section> tags to make it easier to identify which group was which. With each modification I made, I included a comment line.
+For this challenge, I began with a starter code that needed minor changes. The most important aspect of this challenge was accessibility. I modified the HTML more to be more semantic and easier for other coders to read by replacing several div tags with more specific tags, as well as reworked the CSS to follow the structure of the HTML. For accessibility purposes, I also included some alt text with each image on the web page. Another small change I made was adding spaces between certain groups of code and including a couple section tags to make it easier to identify which group was which. With each modification I made, I included a comment line.
 
 ## Screenshot
 
