@@ -10,7 +10,7 @@ For this challenge, I began with a starter code that needed minor changes. The m
 
 ## Link to Deployed Application
 
-![URL to Rylee's deployed application](https://ryloaf.github.io/rylees-first-challenge/)
+[Rylee's deployed application](https://ryloaf.github.io/rylees-first-challenge/)
 
 &copy; 2023 Rylee Jolley GitHub @ryloaf
 &copy; 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
